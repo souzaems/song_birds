@@ -1,0 +1,5 @@
+Homo sapiens	GCF_000001405.40
+Gallus_gallus	GCF_016699485.2
+Taeniopygia_guttata	GCF_048771995.1
+Pteropus alecto	GCF_000325575.1
+Rana	GCF_905171775.1
